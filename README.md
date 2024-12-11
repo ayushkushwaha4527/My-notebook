@@ -14,7 +14,9 @@ A simple and efficient note-taking application built with HTML, CSS, and JavaScr
 **Technologies Used:**
 
 1. HTML: Provides the structure and content of the app.
+   
 2. CSS: Used for styling the app and ensuring a responsive design.
+   
 3. JavaScript: Handles the interactivity and functionality of the app, such as note creation, editing, and deletion.
    
 **How to Use**
