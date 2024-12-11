@@ -1,4 +1,4 @@
-# Note-Taking App
+# My Notebook
 A simple and efficient note-taking application built with HTML, CSS, and JavaScript. This app allows users to create, organize, and manage their notes with ease.
 
 **Features:**
