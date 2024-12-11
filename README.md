@@ -26,3 +26,8 @@ A simple and efficient note-taking application built with HTML, CSS, and JavaScr
 2. Open the index.html file in your browser.
    
 3. Start adding and managing your notes!
+
+**Screenshots**
+![Screenshot (104)](https://github.com/user-attachments/assets/1eb09705-82b8-4324-beaa-e4e7da9b3824)
+
+
