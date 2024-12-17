@@ -29,5 +29,5 @@ A simple and efficient note-taking application built with HTML, CSS, and JavaScr
 
 **Screenshots**
 ![Screenshot (104)](https://github.com/user-attachments/assets/1eb09705-82b8-4324-beaa-e4e7da9b3824)
-
-
+![Screenshot (105)](https://github.com/user-attachments/assets/68e1b84a-6930-4992-9c39-61987807d556)
+![Screenshot (106)](https://github.com/user-attachments/assets/1855b6d0-0a35-4b2e-8583-8e71a32ef618)
